@@ -254,7 +254,4 @@ Funcionalidades principales:
 
 Uso académico / interno. Ajustar según necesidad del repositorio.
 
-```
-::contentReference[oaicite:0]{index=0}
-```
 
