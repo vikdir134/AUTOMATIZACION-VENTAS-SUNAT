@@ -176,22 +176,27 @@ En el caso analizado:
 
 ### Capturas (Power BI)
 
-> Coloca estas imágenes dentro de una carpeta `images/` en el repo (respetando los nombres):
 
-* Resultados generales:
+## Resultados generales
 
-  * ![Ventas Totales](images/Ventas_Totales.png)
-  * ![Ventas Mensuales](images/Ventas_Mensuales.png)
+### Ventas Totales y Crecimiento
+- ![Ventas Totales](images/Ventas_Totales.png)
 
-* Dimensiones clave:
+### Ventas Mensuales y Ganancia
+- ![Ventas Mensuales](images/Ventas_Mensuales.png)
 
-  * ![Productos](images/Productos.png)
-  * ![Clientes](images/Clientes.png)
+## Dimensiones clave
 
-* Indicadores complementarios:
+### Ganancia Bruta por Producto
+- ![Productos](images/Productos.png)
 
-  * ![Cantidad Vendida](images/Cantidad_Vendida.png)
+### Ganancia Bruta y Ventas por Cliente
+- ![Clientes](images/Clientes.png)
 
+## Indicadores complementarios
+
+### Ganancia en función de la Cantidad Vendida
+- ![Cantidad Vendida](images/Cantidad_Vendida.png)
 ---
 
 ## Troubleshooting (común)
@@ -211,5 +216,6 @@ En el caso analizado:
 Proyecto académico/práctico. Puedes reutilizarlo adaptando las reglas de producto según tu negocio.
 
 ````
+
 
 
