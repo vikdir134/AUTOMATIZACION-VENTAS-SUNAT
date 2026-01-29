@@ -1,4 +1,3 @@
-```md
 # AUTOMATIZACIÓN PYTHON – VENTAS POR SUNAT (FACTURAS + NOTAS DE CRÉDITO)
 
 Este repositorio automatiza el procesamiento de comprobantes electrónicos SUNAT en formato **ZIP (XML UBL)** para generar **CSV listos para Power BI**.  
@@ -258,3 +257,4 @@ Uso académico / interno. Ajustar según necesidad del repositorio.
 ```
 ::contentReference[oaicite:0]{index=0}
 ```
+
